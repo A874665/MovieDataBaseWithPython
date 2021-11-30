@@ -34,6 +34,8 @@ InsertData
 ![InsertData](https://user-images.githubusercontent.com/61588577/143984544-f41cbd50-0848-4c81-a0bd-392e1617cae7.PNG)
 Userinput
 ![UserInput](https://user-images.githubusercontent.com/61588577/143993990-09a0d2b3-8956-40af-ade7-3f45bc96a48d.PNG)
+DataInDataBase
+![Data](https://user-images.githubusercontent.com/61588577/143994406-abd303c0-5c26-49ce-a6d3-ac26b503a57b.PNG)
 SelectWithoutParameter
 ![SelectWithoutParameter](https://user-images.githubusercontent.com/61588577/143984602-2b2b12e7-1474-4cd4-b8c5-450951a4cf55.PNG)
 SelectWithParameter
